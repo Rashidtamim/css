@@ -1,3 +1,7 @@
+@font-face {
+    font-family: buttermilk;
+    src: url(./buttermilk.woff2);
+}
 *{
     color: blue;
 }
