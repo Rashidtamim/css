@@ -1,0 +1,27 @@
+*{
+    color: blue;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: purple;
+}
+#heading1{
+    color: pink;
+    background-color: #00ffff;
+
+}
+.u{
+    color:#00ff00;
+}
+/*
+h2{
+    color: rgb(200, 150, 100);
+    background-color: rgb(117, 95, 117);
+}
+button{
+    color: brown;
+    background-color: blueviolet;
+}
+body{
+    background-color:#33908C;
+}*/
