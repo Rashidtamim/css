@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: buttermilk;
     src: url(./buttermilk.woff2);
 }
@@ -15,9 +15,9 @@ h1{
 
 }
 .u{
-    color:#00ff00;
+    color:magenta;
 }
-/*
+
 h2{
     color: rgb(200, 150, 100);
     background-color: rgb(117, 95, 117);
@@ -28,4 +28,25 @@ button{
 }
 body{
     background-color:#33908C;
-}*/
+}*/ 
+#box{
+    background-color: blue;
+    
+}
+#heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+p{
+    text-align: end;
+    font-weight: 500;
+}
+h1{
+    text-align: end;
+    text-decoration: red dotted line-through;
+}
+a{
+    text-decoration: none;
+}
