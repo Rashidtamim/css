@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     text-align: center;
     display: flex;
@@ -39,3 +40,76 @@ div{
     background-color: red;
     /* align-self: center; */
 }
+=======
+/* @font-face {
+    font-family: buttermilk;
+    src: url(./buttermilk.woff2);
+}
+*{
+    color: blue;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: purple;
+}
+#heading1{
+    color: pink;
+    background-color: #00ffff;
+
+}
+.u{
+    color:magenta;
+}
+
+h2{
+    color: rgb(200, 150, 100);
+    background-color: rgb(117, 95, 117);
+}
+button{
+    color: brown;
+    background-color: blueviolet;
+}
+body{
+    background-color:#33908C;
+}
+#box{
+    background-color: blue;
+    
+}
+#heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+#two{
+    text-align: end;
+    font-weight: 500;
+}
+h1{
+    text-align: center;
+    text-decoration: red dotted line-through;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+#one{
+    font-family: roboto;
+}*/
+*{
+   font-family: "Times new Roman";
+}
+h1{
+    color: purple;
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
+}
+>>>>>>> origin/main
